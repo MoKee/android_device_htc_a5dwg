@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_htc_a5dwg",
+    "target_path": "vendor/htc/a5dwg"
+  },
+  {
     "repository": "android_device_htc_a5-common",
     "target_path": "device/htc/a5-common"
   }
